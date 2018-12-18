@@ -27,3 +27,5 @@
 * Note：需要对知识图谱有一定的了解，其次把其作为分类问题来做，注意这是多分类问题，可考虑先对知识图谱进行处理学习，然后再分类。
 * 参考文献: [Knowledge Graph Embedding via Dynamic Mapping Matrix](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Knowledge%20Graph%20Embedding%20via%20Dynamic%20Mapping%20Matrix.pdf)
 
+## result
+![image](https://github.com/Aplicity/Knowledge_Graph_begin/blob/master/images/Figure_1.png)
